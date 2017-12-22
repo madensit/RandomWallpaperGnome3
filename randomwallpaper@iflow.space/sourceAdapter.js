@@ -97,8 +97,8 @@ let UnsplashAdapter = new Lang.Class({
 	// query options
 	options: {
 		'username': '',
-		'collections': '1238636',
-		'query': ''
+		'collections': '1238636'
+		// 'query': ''
 		// 'w': 1920,
 		// 'h': 1080,
 		// 'featured': false
